@@ -1,8 +1,8 @@
-using BlogApp.Models;
+using BlogApp.Web.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace BlogApp.Controllers
+namespace BlogApp.Web.Controllers
 {
     public class HomeController : Controller
     {

@@ -13,3 +13,6 @@ Content of project :
 - Claims
 - Login-Register Pages
 - Many To Many Relationships
+
+# Relational Database Table:
+![İlişkiselVeritabanı Tablosu](https://github.com/sercan96/BlogApp/assets/38535473/627b834b-9623-4282-978b-841cfd9b6b33)
